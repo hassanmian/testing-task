@@ -9,7 +9,7 @@ Repo URL: https://github.com/hassanmian/testing-task
 
 * Make sure to add the context to your wrapper when creating tests
 
-For passing grade make sure to atleat write tests that makes sure that:
+For passing grade make sure to atleast write tests that makes sure that:
 
 * Correct a element class is rendered for linkKind
 
